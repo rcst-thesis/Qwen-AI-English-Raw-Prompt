@@ -76,7 +76,7 @@ No spreadsheet needed to track where you are in a multi-session generation run.
 > **Recommended platform: [Qwen Chat](https://chat.qwen.ai)** — free, fast, and built to follow structured prompts precisely. This is what the prompt was designed and tested on.
 
 1. Go to [chat.qwen.ai](https://chat.qwen.ai) and open a new chat
-2. Copy the full prompt from [`prompt.md`](./prompt.md)
+2. Copy the full prompt from [`English_Raw_Dataset_Generation_Prompt_For_Qwen`](https://github.com/rcst-thesis/Qwen-AI-English-Raw-Prompt/blob/main/English_Raw_Dataset_Generation_Prompt_For_Qwen)
 3. Paste it as the **system prompt** (or send it as your first message if system prompt isn't exposed)
 5. Send your first message:
    ```
